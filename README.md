@@ -35,3 +35,8 @@ Ransomware Negotiation and Threat Intelligence
     <img src="https://d2y9h8w1ydnujs.cloudfront.net/uploads/trainings/d52fd3121bffc6756f1ddfe360792d59673c0872.png" width="120" height="120"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
+</picture>
