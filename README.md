@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Kangal</h1>
-<h3 align="center">Web Pentester</h3>
+<h3 align="center">Web and AI Pentester</h3>
 
 <img src="https://miro.medium.com/1*rv7bzPRCHMsOv1vI_gHyfg.gif" width="700" />
 
