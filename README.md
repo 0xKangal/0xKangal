@@ -6,7 +6,7 @@
 
 <h3 align="left">Try Hack Me:</h3>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xKangal.png)](https://tryhackme.com/p/0xKangal)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xKangal.png)](https://tryhackme.com/p/0xCottonMouth)
 
 <h3 align="left">Certifications:</h3>
 
